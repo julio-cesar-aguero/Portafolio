@@ -80,7 +80,13 @@ nav{
     font-weight: 600;
     cursor: pointer;
 }
+/*HERO*/
 
+.hero__title{
+    color: #fff !important;
+    width: 100%;
+    height: 100%;
+}
 /*About us*/
 .about__container
 {
@@ -88,7 +94,7 @@ nav{
     color: var(--secondary-color);
 }
 .about__head{
-    padding-top: 300px;
+    padding-top: 100px;
 }
 .about__head .title{
     font-weight: 400;
